@@ -8,7 +8,7 @@
 - password
 
 ## Create database
-create database exercise;
+- create database exercise;
 
 - use exercise;
 
