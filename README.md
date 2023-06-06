@@ -10,7 +10,7 @@
 ## Create database
 create database exercise;
 
-use exercise;
+- use exercise;
 
 ## Create table
 - create table todos (
