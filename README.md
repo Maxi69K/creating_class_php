@@ -10,6 +10,8 @@
 ## Create database
 create database exercise;
 
+use exercise;
+
 ## Create table
 - create table todos (
 - id int auto_increment primary key,
